@@ -1,6 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning Analysis and systems development
-
+🌱 Learning Front-End Development
 
 <!--
 **fsancho1985/fsancho1985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
