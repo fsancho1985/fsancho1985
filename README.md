@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'am Francisco de Souza Sancho, web developer, here are some of my skills:
+I am Francisco de Souza Sancho, web developer, here are some of my skills:
 
 🌱 Graduated in Systems Analysis and Development <br/>
 🌱 Specialized in Front End Development <br/>
