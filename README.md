@@ -6,7 +6,7 @@ I am Francisco de Souza Sancho, web developer, here are some of my skills:
 🌱 Specialized in Software Architecture <br/>
 🌱 Learning Front-End Development <br/>
 🌱 Learning Mobile Development <br/>
-🔭 I’m currently working as Web Author Jr. <br/>
+🔭 Experienced as Web Author Jr. <br/>
 
 
 <!--
