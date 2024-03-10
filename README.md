@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am Francisco de Souza Sancho, web developer, here are some of my skills:
 
+🌱 Graduating in Multiplatform Software Development <br/>
 🌱 Graduated in Systems Analysis and Development <br/>
 🌱 Specialized in Front End Development <br/>
 🌱 Specialized in Software Architecture <br/>
